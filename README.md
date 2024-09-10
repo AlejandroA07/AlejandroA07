@@ -1,15 +1,15 @@
 Hi! I'm Manuel Almeida
-<p align="center">
+
   <strong>Software Developer</strong><br>
   I am a Software developer with almost 1 year of experience developing back-end systems using technologies such as Spring Boot and ASP.NET Core. I started my developer career with the .NET Platform during my two years of school time but at my first practice I started learning and working with Spring Boot 3 and still do. I have used SQL(MySQL) as well as NoSQL(MongoDB) database systems on in-house as well as my own projects. I have used React(TS) for the frontend in most cases.
 
 Using technologies like Spring and .NET Core has given me a solid understanding of backend API development, regardless of the language or framework. It’s helped me in understanding core concepts which simplifies the process of working with different technologies.
 
-</p>
 
 
-<h1 align="center">Tech Stack:</h1>
-<p align="center">
+
+<h1>Tech Stack:</h1>
+<p>
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -33,7 +33,7 @@ Using technologies like Spring and .NET Core has given me a solid understanding 
   <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
-<h1 align="center">GitHub Stats:</h1>
+<h1>GitHub Stats:</h1>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlejandroA07&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" />
@@ -42,7 +42,7 @@ Using technologies like Spring and .NET Core has given me a solid understanding 
 </p>
 
 
-<h1 align="center">GitHub Trophies</h1>
+<h1>GitHub Trophies</h1>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AlejandroA07&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophy" />
