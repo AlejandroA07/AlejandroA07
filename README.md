@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm ✨ Manuel Almeida ✨</h1>
+Hi! I'm Manuel Almeida
 <p align="center">
   <strong>Software Developer</strong><br>
   I am a Software developer with almost 1 year of experience developing back-end systems using technologies such as Spring Boot and ASP.NET Core. I started my developer career with the .NET Platform during my two years of school time but at my first practice I started learning and working with Spring Boot 3 and still do. I have used SQL(MySQL) as well as NoSQL(MongoDB) database systems on in-house as well as my own projects. I have used React(TS) for the frontend in most cases.
