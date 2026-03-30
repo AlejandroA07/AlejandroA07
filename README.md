@@ -2,7 +2,7 @@ Hi! I'm Manuel Almeida
 
 **Full-Stack Developer** based in Malmö, Sweden
 
-I'm a Full-Stack Developer with 2 years of professional experience building robust backend systems and modern web applications. My journey began in 2021 with a Udemy JavaScript course. I then completed a 2-year System Development program with a focus on security at JENSEN in Malmö. Through internships and a full-time role at Aveer Consulting, I expanded my skills with Spring Boot, Java, React, and cloud technologies. I'm always working on personal projects to sharpen my skills and explore new technologies, design patterns, and algorithms.
+I'm a Full-Stack Developer with 2 years of professional experience building robust backend systems and modern web applications. My journey began in 2021 with a Udemy JavaScript course. I then completed a 2-year System Development program with a focus on security at JENSEN in Malmö. Through internships and a full-time role at Aveer Consulting, I expanded my skills with Spring Boot, Java, React, and cloud technologies. I'm always working on personal projects to sharpen my skills, explore new technologies, design patterns, and algorithms.
 
 ### 🛠️ Tech Stack
 
@@ -25,21 +25,21 @@ I'm a Full-Stack Developer with 2 years of professional experience building robu
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" />
   
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" />
 </p>
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario-github&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario-github&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario-github&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlejandroA07&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlejandroA07&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroA07&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tu-usuario-github&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AlejandroA07&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
